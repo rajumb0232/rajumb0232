@@ -4,10 +4,17 @@
 <!-- ![Header](https://github.com/rajumb0232/rajumb0232/blob/Main/github-header-image%20(1).png) -->
 <h3 align="left">I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..</h3>
 
+- 🌱 I’m currently learning **Microservices, Spring Security..**
+
+- 💬 Ask me about **Spring, Spring Boot..**
+
 - 📫 How to reach me **rajugowda0232@gmail.com**
+
+- ⚡ Fun fact **I was a biology Student!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/https://discord.gg/e558RrvvrJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/e558RrvvrJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
