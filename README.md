@@ -1,8 +1,16 @@
 <!-- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8072&lines=Hi+there+%F0%9F%91%8B+This+is+Raju+mb;I'm+a+java+Developer+!!) -->
-<!-- Hi 👋, I'm Raju mb -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8072&lines=Hi+there+%F0%9F%91%8B+This+is+Raju+mb..;I'm+a+java+Developer+!!)
+
+<!-- <p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Raju mb" /></a>
+</p> -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20this%20is%20Raju%20mb;I'm%20a%20Java%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=30" /></a>
+</p>
 <!-- ![Header](https://github.com/rajumb0232/rajumb0232/blob/Main/github-header-image%20(1).png) -->
-<h3 align="left">I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..</h3>
+<h3 align="center">I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..</h3>
 
 - 🌱 I’m currently learning **Microservices, Spring Security..**
 
