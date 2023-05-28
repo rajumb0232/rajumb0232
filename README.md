@@ -8,8 +8,8 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20this%20is%20Raju%20mb;I'm%20a%20Java%20Developer%20and%20Trainer%20!!&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=27" /></a> -->
 </p>
-<h1 align="center">Hi 👋, this is Raju mb</h1>
-<h3 align="center">I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..</h3>
+<h1 align="left">Hi 👋, this is Raju mb</h1>
+<h3 align="left">I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..</h3>
 <!-- 
 - 🌱 I’m currently learning **Microservices, Spring Security..** -->
 
