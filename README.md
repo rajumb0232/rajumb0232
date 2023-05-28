@@ -10,13 +10,15 @@
 </p>
 <h3 align="center">I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..</h3>
 <!-- 
-- 🌱 I’m currently learning **Microservices, Spring Security..**
-
-- 💬 Ask me about **Spring, Spring Boot..**
+- 🌱 I’m currently learning **Microservices, Spring Security..** -->
 
 - 📫 How to reach me **rajugowda0232@gmail.com**
 
-- ⚡ Fun fact **I was a biology Student!** -->
+- 💬 Ask me about **Spring, Spring Boot and Microservices**
+
+
+
+<!-- - ⚡ Fun fact **I was a biology Student!**  -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
