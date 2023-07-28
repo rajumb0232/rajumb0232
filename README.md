@@ -10,7 +10,7 @@
 </p>
 <h1 align="left">Hi 👋, this is Raju !</h1>
 
- I'm a java developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Spring, SpringBoot and also frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here.. 
+ I'm a java developer from India. focussed on Web Services and Microservices (Spring Boot). You can also find me exploring some frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here.. 
 <!-- 
 - 🌱 I’m currently learning **Microservices, Spring Security..** -->
 
