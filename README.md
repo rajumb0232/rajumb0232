@@ -16,10 +16,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajumb0232&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Take a look here
+<!--#### Take a look here
 
 
-<!--<a href="https://github.com/rajumb0232/GoShop-eCommerce-Api">
+<a href="https://github.com/rajumb0232/GoShop-eCommerce-Api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajumb0232&repo=GoShop-eCommerce-Api&theme=buefy" />
 </a>
 <a href="https://github.com/rajumb0232/BookMyShow-API-Clone">
