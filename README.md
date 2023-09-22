@@ -1,8 +1,8 @@
-**Hi 👋, this is Raju !**
+**Hey there! this is Raju 👋**
 
-I'm a Java Developer from India. focused on Web-Services, Microservices and Spring Security . You can often find me exploring new projects under spring ecosystem. Take a look at my repositories - some of my best works are pinned here..
-<!-- 
-- 🌱 I’m currently learning **** -->
+ I'm a Java Developer based in India. My playground? Web Services, Microservices, and Spring Security. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
+
+- 🌱 I’m currently learning **JWT & OAuth** 
 
 - 📫 How to reach me **rajugowda0232@gmail.com**
 
