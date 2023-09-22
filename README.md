@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rajugowda0232@gmail.com**
 
-- 💬 Ask talk about **Spring, Spring Boot, Microservices & Spring Security**
+- 💬 Ask me about **Spring, Spring Boot, Microservices & Spring Security**
 
 
 **Languages and Tools:**
