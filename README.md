@@ -1,6 +1,6 @@
 **Hi 👋, this is Raju !**
 
-I'm a Java Developer from India. focussed on Web-Services, Microservices and Spring Security . You can often find me exploring new projects under spring ecosystem. Take a look at my repositories - some of my best works are pinned here..
+I'm a Java Developer from India. focused on Web-Services, Microservices and Spring Security . You can often find me exploring new projects under spring ecosystem. Take a look at my repositories - some of my best works are pinned here..
 <!-- 
 - 🌱 I’m currently learning **** -->
 
