@@ -1,7 +1,6 @@
+ <p>Hi 👋, this is Raju !</p>
 
-<h1>Hi 👋, this is Raju !</h1>
-
-**I'm a java developer from India. focussed on Web-Services and Microservices (Spring Boot). You can also find me exploring some frontend technologies like html, css, JavaScript. Take a look at my repositories - some of my best works are pinned here..**
+**I'm a java developer from India. focussed on Web-Services, Microservices and Spring Security . You can often find me exploring new projects under spring ecosystem. Take a look at my repositories - some of my best works are pinned here..**
 <!-- 
 - 🌱 I’m currently learning **** -->
 
