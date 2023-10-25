@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OAuth2.0**
 
-- 📝 I regularly write articles on [blogs.bitsofdevbrain.com](blogs.bitsofdevbrain.com)
+<!-- - 📝 I regularly write articles on [blogs.bitsofdevbrain.com](blogs.bitsofdevbrain.com) -->
 
 - 💬 Ask me about **RESTful APIs, Spring Security and Microservices**
 
