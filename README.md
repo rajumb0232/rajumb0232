@@ -18,7 +18,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)&nbsp;
-![JWT](https://img.shields.io/badge/-Jason%20Web%20Tokens%20(JWT)-05122A?style=flat&logo=jsonwebtokens)&nbsp;
+![JWT](https://img.shields.io/badge/-Json%20Web%20Tokens%20(JWT)-05122A?style=flat&logo=jsonwebtokens)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
