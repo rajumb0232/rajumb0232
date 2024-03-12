@@ -3,17 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="rajumb0232" /> </p>
 
-<!-- **Connect with me:**
-<p align="left">
-<a href="https://twitter.com/raju_g0wda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raju_g0wda" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rajugowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rajugowda" height="30" width="40" /></a>
-</p> -->
 ---
-#### ⚙️ Server
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-14C37E?style=flat&logo=apachetomcat)&nbsp;
-
-#### 🛠 Languages | Frameworks | Libraries
-![Java](https://img.shields.io/badge/-Java-565656?style=flat&logo=java)&nbsp;
+### 🛠 Languages - Frameworks - Libraries
+Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp; | &nbsp;JWT&nbsp; | &nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router&nbsp;
+<!-- ![Java](https://img.shields.io/badge/-Java-565656?style=flat&logo=java)&nbsp;
 ![Hiberante](https://img.shields.io/badge/-Hiberante-565656?style=flat&logo=hibernate)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-565656?style=flat&logo=spring)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-565656?style=flat&logo=springboot)&nbsp;
@@ -24,20 +17,22 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-565656?style=flat&logo=tailwindcss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJS-565656?style=flat&logo=react)&nbsp;
-![React Router](https://img.shields.io/badge/-React%20Router-565656?style=flat&logo=reactrouter)&nbsp;
+![React Router](https://img.shields.io/badge/-React%20Router-565656?style=flat&logo=reactrouter)&nbsp; -->
 
-#### 💾 Database
-![MySQL](https://img.shields.io/badge/-MySQL-f6f6f6?style=flat&logo=mysql)&nbsp;
+### 💾 Database
+MySQL&nbsp; | &nbsp;MongoDB&nbsp; | &nbsp;PostgreSQL&nbsp;
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-f6f6f6?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f6f6f6?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f6f6f6?style=flat&logo=postgresql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f6f6f6?style=flat&logo=postgresql)&nbsp; -->
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-565656?style=flat&logo=git)&nbsp;
+### 🧰 Tools
+Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-565656?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-565656?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-565656?style=flat&logo=postman)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-565656?style=flat&logo=eclipseide)&nbsp;
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-565656?style=flat&logo=intellijidea)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-565656?style=flat&logo=visualstudiocode)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-565656?style=flat&logo=visualstudiocode)&nbsp;-->
 
 ---
 <!-- **Languages and Tools:**
@@ -48,7 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajumb0232&show_icons=true&locale=en" alt="rajumb0232" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajumb0232&" alt="rajumb0232" /></p> -->
-<a href="https://github.com/rajumb0232"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/rajumb0232"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/rajumb0232"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajumb0232&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
