@@ -10,34 +10,34 @@
 </p> -->
 ---
 #### ⚙️ Server
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-05122A?style=flat&logo=apachetomcat)&nbsp;
+![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-14C37E?style=flat&logo=apachetomcat)&nbsp;
 
 #### 🛠 Languages | Frameworks | Libraries
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Hiberante](https://img.shields.io/badge/-Hiberante-05122A?style=flat&logo=hibernate)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)&nbsp;
-![JWT](https://img.shields.io/badge/-Json%20Web%20Tokens%20(JWT)-05122A?style=flat&logo=jsonwebtokens)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=reactrouter)&nbsp;
+![Java](https://img.shields.io/badge/-Java-565656?style=flat&logo=java)&nbsp;
+![Hiberante](https://img.shields.io/badge/-Hiberante-565656?style=flat&logo=hibernate)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-565656?style=flat&logo=spring)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-565656?style=flat&logo=springboot)&nbsp;
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-565656?style=flat&logo=springsecurity)&nbsp;
+![JWT](https://img.shields.io/badge/-Json%20Web%20Tokens%20(JWT)-565656?style=flat&logo=jsonwebtokens)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-565656?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-565656?style=flat&logo=css3)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-565656?style=flat&logo=tailwindcss)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-565656?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-565656?style=flat&logo=react)&nbsp;
+![React Router](https://img.shields.io/badge/-React%20Router-565656?style=flat&logo=reactrouter)&nbsp;
 
 #### 💾 Database
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-f6f6f6?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-f6f6f6?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f6f6f6?style=flat&logo=postgresql)&nbsp;
 
 #### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
-![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellijidea)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![Git](https://img.shields.io/badge/-Git-565656?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-565656?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-565656?style=flat&logo=postman)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-565656?style=flat&logo=eclipseide)&nbsp;
+![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-565656?style=flat&logo=intellijidea)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-565656?style=flat&logo=visualstudiocode)&nbsp;
 
 ---
 <!-- **Languages and Tools:**
