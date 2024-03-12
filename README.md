@@ -43,7 +43,7 @@ Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse I
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajumb0232&show_icons=true&locale=en" alt="rajumb0232" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajumb0232&" alt="rajumb0232" /></p> -->
-<a href="https://github.com/rajumb0232"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/rajumb0232"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/rajumb0232"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajumb0232&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
