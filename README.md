@@ -16,7 +16,6 @@ I leverage a comprehensive set of modern technologies to build scalable and effi
 - **Databases:** Proficient in both relational and NoSQL systems, including MySQL, MongoDB, and PostgreSQL.
 - **Tools & Cloud:** Experienced with Git & GitHub for version control, Postman for API testing, and AWS for cloud infrastructure.
 
----
 
 
 
