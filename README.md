@@ -1,26 +1,22 @@
+# Hi, I'm Raju! 👋
 
-**Yo, I'm a Java Dev based in India. My playground? REST APIs, Spring Security & ReactJS. Check out some of my top-notch work that I've pinned right here for you to explore. 😄🚀**
+🚀 **Java Developer | Full-Stack Enthusiast**  
+📍 **Based in India**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="rajumb0232" /> </p>
-
----
-⚙️ **Backend:**
-&nbsp;Java/Java 8&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;REST APIs&nbsp; | &nbsp;Microservices&nbsp; 
-
-⛺️ **Frontend:** 
-&nbsp;ReactJS&nbsp; | &nbsp;Tailwind CSS&nbsp;
-
-📁 **Database:**
-&nbsp;MySQL&nbsp; | &nbsp;MongoDB&nbsp; | &nbsp;PostgreSQL&nbsp; 
-
-🧰 **Tools & Technologies:**
-&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;AWS&nbsp;
+I'm a passionate Java developer, specializing in crafting robust REST APIs with Spring Boot and securing them with Spring Security, while also creating interactive UIs with ReactJS. Welcome to my GitHub space — explore my projects and join me on this journey of continuous innovation and learning!
 
 ---
-<a href="https://github.com/rajumb0232"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajumb0232&theme=tokyonight&hide_border=true"></a> 
-<br />
-<br />
-<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajumb0232&theme=tokyonight&hide_border=true"></a>
+
+## Tech Stack
+
+I leverage a comprehensive set of modern technologies to build scalable and efficient applications:
+
+- **Backend:** Java 8+, Spring Boot, REST APIs, and Microservices.
+- **Frontend:** ReactJS paired with Tailwind CSS for dynamic, responsive interfaces.
+- **Databases:** Proficient in both relational and NoSQL systems, including MySQL, MongoDB, and PostgreSQL.
+- **Tools & Cloud:** Experienced with Git & GitHub for version control, Postman for API testing, and AWS for cloud infrastructure.
+
+---
+
 
 
