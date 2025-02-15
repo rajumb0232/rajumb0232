@@ -5,16 +5,16 @@
 
 ---
 ⚙️ **Backend:**
-&nbsp;Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp; | &nbsp;JWT&nbsp; 
+&nbsp;Java/Java 8&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;REST APIs&nbsp; | &nbsp;Microservices&nbsp; 
 
 ⛺️ **Frontend:** 
-&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; 
+&nbsp;ReactJS&nbsp; | &nbsp;Tailwind CSS&nbsp;
 
 📁 **Database:**
 &nbsp;MySQL&nbsp; | &nbsp;MongoDB&nbsp; | &nbsp;PostgreSQL&nbsp; 
 
-🧰 **Tools:**
-&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Postman&nbsp; | &nbsp;SonarCloud&nbsp; | &nbsp;Jacoco&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
+🧰 **Tools & Technologies:**
+&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;AWS&nbsp;
 
 ---
 <a href="https://github.com/rajumb0232"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
