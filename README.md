@@ -1,4 +1,5 @@
 # Hi, I'm Raju! 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=A+Self+taught+Backend+Developer+!!;A+Technical+Mentor!!;)
 
 🚀 **Java Developer | Full-Stack Enthusiast**  
 📍 **Based in India**
