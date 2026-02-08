@@ -1,21 +1,40 @@
-# Hi, I'm Raju! 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=A+Self+taught+Backend+Developer+!!;A+Technical+Mentor!!;)
+# Hi, I’m Raju 👋
+<p>
+  <span>I build execution-first backend systems and developer tooling.</span>
+  <br><br>
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </span>
+</p>
 
-🚀 **Java Developer | Full-Stack Enthusiast**  
-📍 **Based in India**
 
-I'm a passionate Java developer, specializing in crafting robust REST APIs with Spring Boot and securing them with Spring Security, while also creating interactive UIs with ReactJS. Here you can explore my projects, join me develop & innovate.
 
----
-### 🛠️ Tech Stack
-- **Backend:** `Java 8+`, `Spring Boot`, `REST APIs`, and `Microservices` paired with `Kafka` for Event-Driven Systems.
-- **Frontend:** `ReactJS` paired with `Tailwind CSS` for dynamic, responsive interfaces.
-- **Databases:** Proficient in relational and NoSQL systems, including `MySQL`, `MongoDB`, and `PostgreSQL`.
-- **Tools & Cloud:** Experienced with Git & GitHub for version control, `Postman` for API testing, and `AWS` for cloud infrastructure.
 
----
+### My work focuses on:
+- Async and eventually consistent systems
+- Reliability, self-healing pipelines, and failure handling
+- Security, auditability, and compliance-aware backend design
+- Developer experience tools that stay close to execution
+
+### 🚀 Notable Work
+- **Retreever** — an execution-first API documentation engine for Spring  
+  Discovers APIs at runtime and generates clean, test-ready documentation with zero configuration.
+- **Vaultiq Session** — a device-aware session management library designed for secure backend systems.
+- **E-commerce & Platform Systems** — designed real-world architectures focusing on correctness, scalability, and operational clarity.
+
+### 🧠 What I care about
+I’m interested in systems where *correctness matters more than velocity* and where engineering decisions must hold up under real production pressure.
+
+Currently exploring:
+- Platform engineering & internal tooling
+- Async system design patterns
+- Developer productivity without abstraction leaks
+
+📍 Based in India  
+🔗 https://rajugowda.in  
+
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="rajumb0232" /> </p>
+
 
 
 
