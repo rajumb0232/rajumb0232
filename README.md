@@ -1,6 +1,6 @@
 # Hi, I’m Raju 👋
 <p>
-  <span>I build execution-first backend systems and developer tooling.</span>
+  <span>I build execution-first backend systems and developer tooling for production environments.</span>
   <br><br>
   <span>
     <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,13 +17,17 @@
 - Developer experience tools that stay close to execution
 
 ### 🚀 Notable Work
-- **Retreever** — an execution-first API documentation engine for Spring  
+- **Retreever** — an execution-first API documentation engine for Spring.
   Discovers APIs at runtime and generates clean, test-ready documentation with zero configuration.
-- **Vaultiq Session** — a device-aware session management library designed for secure backend systems.
-- **E-commerce & Platform Systems** — designed real-world architectures focusing on correctness, scalability, and operational clarity.
+
+- **Vaultiq Session** — a device-aware session management library for secure backend systems.
+  Designed to avoid central auth dependencies while preserving auditability.
+
+- **E-commerce & Platform Systems** — real-world architectures focusing on correctness, scalability, and operational clarity.
+
 
 ### 🧠 What I care about
-I’m interested in systems where *correctness matters more than velocity* and where engineering decisions must hold up under real production pressure.
+I’m interested in systems where *correctness matters more than raw velocity* and where engineering decisions must hold up under real production pressure.
 
 Currently exploring:
 - Platform engineering & internal tooling
